@@ -1,6 +1,4 @@
-# Multinomy (Python port)
-
-A multiplayer economy based CLI-game, ported from C++ to Python.
+# DBMS PBL: Multiplayer Economy Simulator Game
 
 ## Setup
 
